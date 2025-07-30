@@ -1,11 +1,11 @@
 
 <div align="left"">
-  <h1 style="margin: 0;">Hi, I'm Denys Horshcov</h1>
+  <h1 style="margin: 0;">Hi, I'm Denys Horshcov🧑‍💻</h1>
 </div>
 
 <img align="centre" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhmN3h0NW40YW5xNnpyN2l2bWFicXM3ZDVnNG0wd2sycTk5ZXJ3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zwDNti5vWFujS/giphy.gif"  />
 
-### About me 👇
+## About me 👇
 
 I'm a young data scientist passionate about machine learning and everything related to it.  
 I currently study at Taras Shevchenko National University of Kyiv. I've been programming since my teenage years.  
@@ -24,14 +24,14 @@ I enjoy discovering hidden insights in large datasets, building dashboards, trai
 - Large Language Models (LLMs)
 
 
-### Languages
+## Languages
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 </p>
 
-### AI Libraries
+## AI Libraries
 <p align="left"> 
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
@@ -41,7 +41,7 @@ I enjoy discovering hidden insights in large datasets, building dashboards, trai
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </p>
 
-### Other Tools
+## Other Tools
 <p align="left"> 
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
@@ -52,7 +52,7 @@ I enjoy discovering hidden insights in large datasets, building dashboards, trai
 </p>
 
 
-### My Projects
+## My Projects
 
 - [Analysis of Sport Participation in the EU](https://github.com/DenysHorshcov/analysis_sport_EU)  
 - [Analysis of NVIDIA Videocard Popularity & Stocks](https://github.com/DenysHorshcov/analysis_popularity_videocards_and_stocks_NVDIA)  
@@ -74,9 +74,28 @@ I enjoy discovering hidden insights in large datasets, building dashboards, trai
 - 🎮 Making video games  
 - 🎸 Anime and metal music
 
+## Conect with me
+<div align="left">
+  <p></p>
+  <a href="https://t.me/DsHrshkv" target="_blank">
+    <img src="https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Telegram_2019_Logo.svg" alt="опис" />
+  </a>
+  <img src="https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Telegram_2019_Logo.svg" link="" height="30" alt="telegram"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denyshorshcov&show_icons=true&locale=en&layout=compact" alt="Top Langs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denyshorshcov&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-## Conect with me
