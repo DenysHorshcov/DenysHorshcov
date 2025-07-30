@@ -20,6 +20,7 @@
 
 <h2 align="left">My projects</h2>
 <h3 align="left">ML/Data analysis</h3>
+- [Analysis Sport Participation in the EU]()
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denyshorshcov&show_icons=true&locale=en&layout=compact" alt="denyshorshcov" /></p>
 
