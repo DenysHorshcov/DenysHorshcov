@@ -69,8 +69,9 @@ Over time, I’ve explored game development, web, and mobile apps — but machin
   </a>
 </div>
 
+## GitHub stats
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denyshorshcov&show_icons=true&locale=en&layout=compact" alt="Top Langs" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denyshorshcov&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+</div>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denyshorshcov&show_icons=true&locale=en&layout=compact" alt="Top Langs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denyshorshcov&show_icons=true&locale=en" alt="GitHub Stats" /></p>
