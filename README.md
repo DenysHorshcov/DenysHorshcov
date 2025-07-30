@@ -8,21 +8,8 @@
 ## About me 👇
 
 I'm a young data scientist passionate about machine learning and everything related to it.  
-I currently study at Taras Shevchenko National University of Kyiv. I've been programming since my teenage years.  
+I currently study at Taras Shevchenko National University of Kyiv.
 Over time, I’ve explored game development, web, and mobile apps — but machine learning is what I love the most.  
-
-I enjoy discovering hidden insights in large datasets, building dashboards, training models, and creating projects that are useful both for myself and others.
-
-
-### 🧠 I’m currently learning
-
-- Data Science  
-- Data Analysis  
-- Machine Learning (ML)  
-- Natural Language Processing (NLP)  
-- Neural Networks  
-- Large Language Models (LLMs)
-
 
 ## Languages
 <p align="left"> 
