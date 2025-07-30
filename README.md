@@ -20,7 +20,9 @@
 
 <h2 align="left">My projects</h2>
 <h3 align="left">ML/Data analysis</h3>
-- [Analysis Sport Participation in the EU]()
+- [Analysis Sport Participation in the EU](https://github.com/DenysHorshcov/analysis_sport_EU)
+
+- 🔭 I’m currently working on [saddsa](https://github.com/DenysHorshcov/analysis_sport_EU)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denyshorshcov&show_icons=true&locale=en&layout=compact" alt="denyshorshcov" /></p>
 
