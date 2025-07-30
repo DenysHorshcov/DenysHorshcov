@@ -11,14 +11,12 @@ I'm a young data scientist passionate about machine learning and everything rela
 I currently study at Taras Shevchenko National University of Kyiv.
 Over time, I’ve explored game development, web, and mobile apps — but machine learning is what I love the most.  
 
-## Languages
+## Languages & Tools 🛠️
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 </p>
-
-## AI Libraries
 <p align="left"> 
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
@@ -27,8 +25,6 @@ Over time, I’ve explored game development, web, and mobile apps — but machin
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </p>
-
-## Other Tools
 <p align="left"> 
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
@@ -46,20 +42,12 @@ Over time, I’ve explored game development, web, and mobile apps — but machin
 - [User Conversion Funnel Analysis](https://github.com/DenysHorshcov/analysis_users_conversion)
 
 
-### 🧾 Non-Programming Facts
+## 🧾 Non-Programming Facts
 
 - Strong mathematical background  
 - English level: B2  
-- Experience in amateur theatre and regular stage performances  
-- Defended several student research projects during school
-
-
-### ❤️ I Love
-
-- 🏋️ Going to the gym  
-- 🎭 Acting in theatre  
-- 🎮 Making video games  
-- 🎸 Anime and metal music
+- Experience in amateur theatre and regular stage performances
+- I love 🏋️ Going to the gym, 🎭 Acting in theatre, 🎮 Making video games, 🎸 Anime and metal music
 
 ## Conect with me
 <div align="left">
