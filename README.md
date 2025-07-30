@@ -53,22 +53,22 @@ Over time, I’ve explored game development, web, and mobile apps — but machin
 <div align="left">
   <p></p>
   <a href="https://t.me/DsHrshkv" target="_blank">
-    <img src="https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Telegram_2019_Logo.svg" alt="опис" />
+    <img src="https://cdn0.iconfinder.com/data/icons/tuts/256/telegram.png" alt="опис" width="50"/>
   </a>
-  <img src="https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Telegram_2019_Logo.svg" link="" height="30" alt="telegram"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <a href="https://www.kaggle.com/goody132" target="_blank">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="опис" width="50"/>
+  </a>
+  <a href="https://www.linkedin.com/in/denys-horshkov-a01538361/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIaMRGRXIcw7PLuQwrNT3owQpigxHG_LJNWQ&s" alt="опис" width="50"/>
+  </a>
+  <a href="https://discord.com/users/1292909851151958147" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDoLFER9GjIK7uLkNCuXjUizCgzENZ8-3AUQ&s" alt="опис" width="50"/>
+  </a>
+  <a href="https://www.facebook.com/share/1S2tiFtgRM/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" alt="опис" width="50"/>
+  </a>
 </div>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denyshorshcov&show_icons=true&locale=en&layout=compact" alt="Top Langs" /></p>
