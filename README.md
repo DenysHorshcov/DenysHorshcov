@@ -1,21 +1,17 @@
-<table>
-  <tr>
-    <td>
 
-<h1 align="left">Hi, I'm Denys Horshcov</h1>
+<div align="left"">
+  <h1 style="margin: 0;">Hi, I'm Denys Horshcov</h1>
+</div>
+
+<img align="centre" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhmN3h0NW40YW5xNnpyN2l2bWFicXM3ZDVnNG0wd2sycTk5ZXJ3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zwDNti5vWFujS/giphy.gif"  />
+
+### About me 👇
 
 I'm a young data scientist passionate about machine learning and everything related to it.  
 I currently study at Taras Shevchenko National University of Kyiv. I've been programming since my teenage years.  
 Over time, I’ve explored game development, web, and mobile apps — but machine learning is what I love the most.  
 
 I enjoy discovering hidden insights in large datasets, building dashboards, training models, and creating projects that are useful both for myself and others.
-
-  </td>
-  <td>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhmN3h0NW40YW5xNnpyN2l2bWFicXM3ZDVnNG0wd2sycTk5ZXJ3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zwDNti5vWFujS/giphy.gif" width="250"/>
-  </td>
-</tr>
-</table>
 
 
 ### 🧠 I’m currently learning
