@@ -23,7 +23,7 @@
 
 - [Analysis Sport Participation in the EU](https://github.com/DenysHorshcov/analysis_sport_EU)
 
-- [Analysis Sport Participation in the EU](https://github.com/DenysHorshcov/analysis_sport_EU)
+- [Analysis Popularity different NVIDIA videocards and NVIDIA stocks](https://github.com/DenysHorshcov/analysis_popularity_videocards_and_stocks_NVDIA)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denyshorshcov&show_icons=true&locale=en&layout=compact" alt="denyshorshcov" /></p>
 
