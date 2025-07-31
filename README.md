@@ -11,7 +11,7 @@ I'm a young data scientist passionate about machine learning and everything rela
 
 I’ve explored game development, web, and mobile apps — but machine learning is what I love the most💓
 
-### 🌱  I’m currently learning
+## 🌱  I’m currently learning
 
 Python, Data science, Data Analysis, ML, NLP, Neural Networks, LLMs
 
