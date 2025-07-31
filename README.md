@@ -73,7 +73,7 @@ Python, Data science, Data Analysis, ML, NLP, Neural Networks, LLMs
 
 ## GitHub stats
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denyshorshcov&show_icons=true&locale=en&layout=compact" alt="Top Langs" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denyshorshcov&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denyshorshcov&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denyshorshcov&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
 </div>
 
