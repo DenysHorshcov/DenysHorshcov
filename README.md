@@ -9,7 +9,7 @@
 
 I'm a young data scientist passionate about machine learning and everything related to it. I currently study at [Taras Shevchenko National University of Kyiv, majoring in computer science.](https://csc.knu.ua/uk/) 🧑🏼‍🎓
 
-I’ve explored game development, web, and mobile apps — but machine learning is what I love the most💓
+I’ve explored Game Dev, Web and Mobile Dev but Data science is what I love the most💓
 
 ## 🌱  I’m currently learning
 
