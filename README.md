@@ -63,9 +63,6 @@ Python, Data science, Data Analysis, ML, NLP, Neural Networks, LLMs
   <a href="https://www.linkedin.com/in/denys-horshkov-a01538361/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIaMRGRXIcw7PLuQwrNT3owQpigxHG_LJNWQ&s" alt="опис" width="50"/>
   </a>
-  <a href="https://discord.com/users/1292909851151958147" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDoLFER9GjIK7uLkNCuXjUizCgzENZ8-3AUQ&s" alt="опис" width="50"/>
-  </a>
   <a href="https://www.facebook.com/share/1S2tiFtgRM/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" alt="опис" width="50"/>
   </a>
