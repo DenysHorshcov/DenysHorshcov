@@ -49,7 +49,7 @@ Python, Data science, Data Analysis, ML, NLP, Neural Networks, LLMs
 - Strong mathematical background  
 - English level: B2  
 - Experience in amateur theatre and regular stage performances
-- I love 🏋️ Going to the gym, 🎭 Acting in theatre, 🎮 Making video games, 🎸 Anime and metal music
+- I love 🏋️ Going to the gym, 🎭 Acting in theatre, 🎸 Anime and metal music
 
 ## Conect with me
 <div align="left">
