@@ -60,7 +60,7 @@ Python, Data science, Data Analysis, ML, NLP, Neural Networks, LLMs
   <a href="https://www.kaggle.com/goody132" target="_blank">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="опис" width="50"/>
   </a>
-  <a href="www.linkedin.com/in/denys-horshсov" target="_blank">
+  <a href=https://www.linkedin.com/in/denys-horsh%D1%81ov/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIaMRGRXIcw7PLuQwrNT3owQpigxHG_LJNWQ&s" alt="опис" width="50"/>
   </a>
   <a href="https://www.facebook.com/share/1S2tiFtgRM/" target="_blank">
