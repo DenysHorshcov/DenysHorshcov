@@ -3,7 +3,6 @@
   <h1 style="margin: 0;">Hi, I'm Denys Horshcov🧑‍💻</h1>
 </div>
 
-<img align="centre" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhmN3h0NW40YW5xNnpyN2l2bWFicXM3ZDVnNG0wd2sycTk5ZXJ3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zwDNti5vWFujS/giphy.gif"  />
 
 ## About me 👇
 
